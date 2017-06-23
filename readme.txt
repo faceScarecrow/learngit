@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 Createing a new branch is quick and simple.
 Now we learn "git merge" order in "--no-ff".
+Git is a free software ...
